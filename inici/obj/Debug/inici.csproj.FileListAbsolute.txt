@@ -1,0 +1,10 @@
+C:\Users\porti\source\repos\inici\inici\bin\Debug\inici.exe.config
+C:\Users\porti\source\repos\inici\inici\bin\Debug\inici.exe
+C:\Users\porti\source\repos\inici\inici\bin\Debug\inici.pdb
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.csprojAssemblyReference.cache
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.Form1.resources
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.Properties.Resources.resources
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.csproj.GenerateResource.cache
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.csproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.exe
+C:\Users\porti\source\repos\inici\inici\obj\Debug\inici.pdb
